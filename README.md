@@ -58,9 +58,6 @@ This is a Machine Learning + Streamlit-based web app that predicts the **likely 
 
 ---
 
-## 🎯 Sample Screenshot
-
-> Add screenshot later (optional)
 
 ---
 
@@ -70,11 +67,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📬 Contact
-
-Made with ❤️ by [Your Name]  
-📧 Email: you@example.com  
-🌐 [Portfolio/LinkedIn]
 
 ---
 
